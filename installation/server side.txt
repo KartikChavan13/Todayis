@@ -1,0 +1,2 @@
+npm i express cors body-parser mysql2 mysql nodemon axios
+nodemon server.js

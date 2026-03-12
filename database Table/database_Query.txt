@@ -1,0 +1,17 @@
+Database name is "test"
+
+
+
+
+CREATE TABLE family_info (
+  id INT(10) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(50),
+  fatherName VARCHAR(50),
+  motherName VARCHAR(50),
+  siblings INT(10),
+  aadhar VARCHAR(20),
+  pan VARCHAR(20),
+  dob DATE,
+  status VARCHAR(20),
+  address TEXT
+);

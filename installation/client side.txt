@@ -1,0 +1,4 @@
+npm install
+cd client 
+npm i axios react-router-dom
+npm run dev
